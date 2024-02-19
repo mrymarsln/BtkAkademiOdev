@@ -1,2 +1,2 @@
-# Btk Akademi Meteverse Kursu
-Btk akademi, meteverse eğitiminde verilen fibonacci dizisi oluşturma ödevi 
+# Btk Akademi Metaverse Kursu
+Btk akademi, metaverse eğitiminde verilen fibonacci dizisi oluşturma ödevi 
